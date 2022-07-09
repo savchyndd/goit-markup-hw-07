@@ -1,7 +1,13 @@
 // Utils
 @import './utils/vars';
+@import './utils/mixin';
+@import './utils/vusually-hidden';
 
-//Components
+// Base styles
+@import './base/reset';
+@import './base/global';
+
+// Components
 // Header
 @import './components/page-header';
 
