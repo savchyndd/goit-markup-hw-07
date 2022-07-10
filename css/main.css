@@ -39,15 +39,15 @@ address {
 }
 
 body {
-  background-color: var(--white-color);
-  color: var(--desc-color);
+  background-color: #ffffff;
+  color: #757575;
   font-family: "Roboto", sans-serif;
   letter-spacing: 0.03em;
 }
 
 h2,
 h3 {
-  color: var(--header-color);
+  color: #212121;
 }
 
 img {
